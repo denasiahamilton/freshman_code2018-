@@ -1,0 +1,11 @@
+Real Part,Imag Part,Color
+0,225,magenta
+-125,-200,red
+125,-200,green
+-200,50,blue
+200,50,purple
+-50,50,orange
+50,50,cyan
+-75,-25,magenta
+75,-25,blue
+0,-80,black

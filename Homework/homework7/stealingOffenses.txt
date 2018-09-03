@@ -1,0 +1,24 @@
+Burglaries by District: 
+1: 125 
+2: 165 
+3: 241 
+4: 168 
+5: 144 
+6: 143 
+ 
+Thefts by District: 
+1: 114 
+2: 230 
+3: 207 
+4: 135 
+5: 100 
+6: 149 
+ 
+Robberies by District: 
+1: 22 
+2: 20 
+3: 45 
+4: 31 
+5: 26 
+6: 34 
+ 
